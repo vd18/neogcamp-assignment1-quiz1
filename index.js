@@ -26,23 +26,23 @@ if(askquestion===answer)
 
 var questions = [
   {
-    question: "what is my name?",
+    question: "what is my name? ",
     answer: "vandan"
   },
   {
-    question: "what is my age?",
+    question: "what is my age? ",
     answer: "18"
   },
   {
-    question: "where do i live?",
+    question: "where do i live? ",
     answer: "junagadh"
   },
   {
-    question: "what is my nickname?",
+    question: "what is my nickname? ",
     answer: "18"
   },
   {
-    question: "do i like anime?",
+    question: "do i like anime? ",
     answer: "yes"
   }
 ];

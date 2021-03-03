@@ -1,3 +1,3 @@
 # site for neogcamp example
 
-hey, welcome to my site. it coming up tomorrow
+hi, this is first quiz as a part of assignment1
